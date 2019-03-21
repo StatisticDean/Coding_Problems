@@ -1,2 +1,6 @@
 # Coding_Problems
-Coding problems from coding interview questions and my solutions to those in Python.
+These are coding problems and my solutions to some of those.
+
+Most of those problems are coming from https://dailycodingproblem.com
+
+Pull requests/issues are welcomed if you spot issues with any of the solutions.
